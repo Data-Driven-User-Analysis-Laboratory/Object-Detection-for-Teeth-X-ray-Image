@@ -10,3 +10,14 @@
 #### Using only 50 teeth image, we can check process of training normally
 
 #### There's two main files. Choose what use *[Horizontal/Rotated] model you want
+
+# Using Package
+
+```
+$ >pip install torch==1.7.1+cu101 torchvision==0.8.2+cu101 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
+$ >pip install -U torch torchvision
+$ >pip install git+https://github.com/facebookresearch/fvcore.git
+$ >pip install fvcore
+$ >pip install pillow==7.2.0
+$ >python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
+```
