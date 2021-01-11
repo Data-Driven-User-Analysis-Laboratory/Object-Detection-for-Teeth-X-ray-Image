@@ -1,5 +1,9 @@
 # Object-Detection-for-Teeth-X-ray-Image
 
+** Contributor   
+JongHwan Park : pjh403@naver.com   
+
+
 * Horizontal Object Detection result image
 ![image](https://user-images.githubusercontent.com/73214448/104155534-c6775100-542a-11eb-9a69-cd6681f0b1e1.png)
 
